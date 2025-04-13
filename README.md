@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React and backend**
+- 🌱 I’m currently learning **React and Node.js(Backend)**
 
 - 📫 How to reach me **vishnu6364748848@gmail.com**
 
